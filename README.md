@@ -1,6 +1,6 @@
 # Taller 5 – Ordenación Básica en Java
 
-Este repositorio contiene mi implementación de tres algoritmos clásicos de ordenación: **Burbuja**, **Selección** e **Inserción**. El proyecto forma parte de la práctica de la asignatura Estructura de Datos y tiene como objetivo analizar, comparar y validar el comportamiento de los métodos de ordenación sobre distintos tipos de arreglos.
+Este repositorio contiene la implementación de tres algoritmos clásicos de ordenación: **Burbuja**, **Selección** e **Inserción**. El proyecto forma parte de la práctica de la asignatura Estructura de Datos y tiene como objetivo analizar, comparar y validar el comportamiento de los métodos de ordenación sobre distintos tipos de arreglos.
 
 
 
